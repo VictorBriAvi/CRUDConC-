@@ -1,0 +1,16 @@
+C:\Users\victo\source\repos\CRUDEntity\CRUDEntity\obj\Debug\CRUDEntity.csproj.AssemblyReference.cache
+C:\Users\victo\source\repos\CRUDEntity\CRUDEntity\obj\Debug\CRUDEntity.Form1.resources
+C:\Users\victo\source\repos\CRUDEntity\CRUDEntity\obj\Debug\CRUDEntity.Properties.Resources.resources
+C:\Users\victo\source\repos\CRUDEntity\CRUDEntity\obj\Debug\CRUDEntity.csproj.GenerateResource.cache
+C:\Users\victo\source\repos\CRUDEntity\CRUDEntity\obj\Debug\CRUDEntity.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\CRUDEntity\CRUDEntity\bin\Debug\CRUDEntity.exe.config
+C:\Users\victo\source\repos\CRUDEntity\CRUDEntity\bin\Debug\CRUDEntity.exe
+C:\Users\victo\source\repos\CRUDEntity\CRUDEntity\bin\Debug\CRUDEntity.pdb
+C:\Users\victo\source\repos\CRUDEntity\CRUDEntity\bin\Debug\EntityFramework.dll
+C:\Users\victo\source\repos\CRUDEntity\CRUDEntity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\victo\source\repos\CRUDEntity\CRUDEntity\bin\Debug\EntityFramework.xml
+C:\Users\victo\source\repos\CRUDEntity\CRUDEntity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\victo\source\repos\CRUDEntity\CRUDEntity\obj\Debug\CRUDEntity.csproj.CopyComplete
+C:\Users\victo\source\repos\CRUDEntity\CRUDEntity\obj\Debug\CRUDEntity.exe
+C:\Users\victo\source\repos\CRUDEntity\CRUDEntity\obj\Debug\CRUDEntity.pdb
+C:\Users\victo\source\repos\CRUDEntity\CRUDEntity\obj\Debug\CRUDEntity.Presentacion.FrmTabla.resources
